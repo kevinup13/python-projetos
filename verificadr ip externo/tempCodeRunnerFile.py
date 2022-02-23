@@ -1,0 +1,1 @@
+rg: {0}'.format(org,regiao,pais,cid,ip))
